@@ -1,0 +1,7 @@
+{
+  "name": "AI Call Assistant",
+  "description": "Real-time AI analysis of customer calls including sentiment, intent, and sales suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
